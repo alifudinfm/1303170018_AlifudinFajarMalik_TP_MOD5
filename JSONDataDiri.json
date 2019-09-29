@@ -1,0 +1,12 @@
+{
+    "home": {
+      "nama": "Alifudin Fajar Malik",
+      "nim": "1303170018",
+      "kelas": "IT4101"
+    },
+    "about": "saya adalah orang yang supel dan perkerja keras, tetapi saya juga orang yang ceroboh",
+    "hobbies": ["ngoding","hiking","sleeping"],
+    "skills" : ["ngoding","public speaking", "lobying"],
+    "education" : ["SDN 09 Kota Serang", "SMPN 02 Kota Serang", "SMKN 01 Kota Serang", "Telkom University"],
+    "experience" : ["Kuliah", "Tidur", "Makan"]
+  }
